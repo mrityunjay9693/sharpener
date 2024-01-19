@@ -1,5 +1,10 @@
 -----------------------------------------------Welcome to DOM------------------------------------------------
-DOM : DOM stands for Document Object Model
+DOM : DOM stands for Document Object Model. 
+      It is the programming interface for web documents.
+
+
+
+
 We will explore later.
 
 thank you :)
