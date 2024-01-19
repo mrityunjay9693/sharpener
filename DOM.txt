@@ -1,2 +1,5 @@
 -----------------------------------------------Welcome to DOM------------------------------------------------
 DOM : DOM stands for Document Object Model
+
+
+thank you!
